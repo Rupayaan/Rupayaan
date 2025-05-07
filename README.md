@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rupayaan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in building innovative solution for web application.
+- 🌱 I’m currently learning JS.
 - 📫 How to reach me rupschatto@gmail.com
 
 <!---
